@@ -1,0 +1,1 @@
+wget -F --http-user=cerebro84 --http-password=218733 -r -k -K -p -np http://trac.cz/trac/jsoft

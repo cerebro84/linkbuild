@@ -1,0 +1,7 @@
+MIDlet-Jar-Size: 18242
+MIDlet-Jar-URL: linkbuildClient.jar
+MIDlet-Name: linkbuildClient
+MIDlet-Vendor: Vendor
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.0
+MicroEdition-Profile: MIDP-2.0
