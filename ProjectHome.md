@@ -1,0 +1,1 @@
+Link & Build is a framework aimed to ease developing of client-server applications using Bluetooth technology. Developers won't have to worry about managing Bluetooth link or low level data transceiving; instead, it will have a set of methods (both for client/midlet and for server side) to ease developing of applications of that type.
